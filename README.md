@@ -1,15 +1,6 @@
 ### <div align="center">I'm Tanisha Chaturvedi, a frontend developer. 🚀</div>  
   
 
--  🔭 I’m currently working on a project which is a travel advisor website using which you will be able to know the best hotels, places, and restaurants in the city you are visiting.  
-  
-
-- 🌱 I’m currently learning Node.js and MongoDB to become a full-stack developer in the future.    
-  
-
-- ❓ Ask me about anything related to React.js and related frontend technologies.   
-  
-
 <br/>  
 
 
