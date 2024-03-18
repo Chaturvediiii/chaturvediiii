@@ -1,4 +1,4 @@
-### <div align="center">I'm Tanisha Chaturvedi, a frontend developer. 🚀</div>  
+### <div align="center">I'm Tanisha Chaturvedi, a MERN developer. 🚀</div>  
   
 
 <br/>  
