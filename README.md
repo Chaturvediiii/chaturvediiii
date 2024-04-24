@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nivika**
 
-- 💬 Ask me about **MERN** and **Data structures and algorithms**
+- 💬 Ask me about **MERN** and **DSA**
 
 - 📫 How to reach me **chaturveditanisha17@gmail.com**
 
