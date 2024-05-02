@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanisha Chaturvedi</h1>
 <h3 align="center">A passionate software developer.</h3>
 
-- 🔭 I’m currently working on **Nivika**
-
 - 💬 Ask me about **MERN** and **DSA**
 
 - 📫 How to reach me **chaturveditanisha17@gmail.com**
