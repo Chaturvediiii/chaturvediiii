@@ -5,6 +5,7 @@
 - 💬 Ask me about: JavaScript, React, Data structures ,and algorithms.
 - 😄 Pronouns: She/Her.
 - 📫 How to reach me: <a href="mailto:chaturveditanisha17@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/tanishachaturvedi17/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://leetcode.com/u/Taniiishaa/">![Leetcode](https://img.shields.io/badge/LeetCode-D14836?style=for-the-badge&logo=leetcode&logoColor=white)</a>
 
 ## Tech Stack
 <p>
