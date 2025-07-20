@@ -1,6 +1,6 @@
 # Hi there. I am Tanisha Chaturvedi👋 . Welcome to my Profile!!!
 
-- 🔭 I am currently working as a Specialist Programmer @ Infosys.
+<!--- 🔭 I am currently working as a Specialist Programmer @ Infosys. -->
 - 🌱 Currently learning : Artificial Intelligence and machine learning.
 - 💬 Ask me about: JavaScript, React, Data structures ,and algorithms.
 - 😄 Pronouns: She/Her.
